@@ -5,9 +5,9 @@ This project presents an interactive Power BI dashboard designed to analyze key 
 
 **The dashboard delivers end-to-end analytics covering:**
 
-Total Sales Performance
+* Total Sales Performance
 
-Customer Demographics
+* Customer Demographics
 
 Order Insights
 
