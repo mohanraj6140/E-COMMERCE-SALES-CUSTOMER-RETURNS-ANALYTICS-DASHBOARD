@@ -1,6 +1,6 @@
 KPI QUERIES (Top Row of Dashboard)
-**1. Total Sales = 53M**
-
+    
+1. Total Sales = 53M
 SELECT SUM(sales_amount) AS total_sales
 FROM sales;
 
@@ -52,6 +52,7 @@ FROM returns
 GROUP BY return_date
 ORDER BY return_date;
 
+
 REGION-WISE SALES CHART
 9. Total Sales by Region
 SELECT 
@@ -89,7 +90,8 @@ FROM customers c
 JOIN sales s ON c.customer_id = s.customer_id
 GROUP BY age_group;
 
-PAYMENT METHOD ANALYSIS
+
+PAYMENT METHOD ANALYSIS    
 12. Sum of Sales by Payment Method
 SELECT 
     payment_method,
@@ -119,7 +121,8 @@ GROUP BY p.product_name
 ORDER BY total_sales DESC
 LIMIT 5;
 
-RETURNS VS ORDERS (Category-wise Line Chart)
+
+RETURNS VS ORDERS (Category-wise Line Chart)    
 15. Sum of Returned Orders & Total Orders by Category
 SELECT 
     p.category_name,
