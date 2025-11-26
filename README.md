@@ -9,15 +9,15 @@ This project presents an interactive Power BI dashboard designed to analyze key 
 
 * Customer Demographics
 
-Order Insights
+* Order Insights
 
-Return Patterns
+* Return Patterns
 
-Category and Product Trends
+* Category and Product Trends
 
-Payment Method Distribution
+* Payment Method Distribution
 
-Region-wise Sales Analysis
+* Region-wise Sales Analysis
 
 Built using Power BI with interactive slicers (Month, Gender), the report allows users to drill down into detailed metrics for any selected period or customer segment.
 
@@ -25,49 +25,49 @@ Built using Power BI with interactive slicers (Month, Gender), the report allows
 
 **Sales Performance**
 
-Total Sales: 53M
+* Total Sales: 53M
 
-Total Orders: 1000
+* Total Orders: 1000
 
-Average Order Value: 53K
+* Average Order Value: 53K
 
-Purchase Frequency: 5.03
+* Purchase Frequency: 5.03
 
-Total Customers: 199
+* Total Customers: 199
 
 **Real-time trend of daily, monthly, and yearly sales**
 
 **Customer & Demographics**
 
-Age group distribution (45+, 35–44, 25–34, <25)
+* Age group distribution (45+, 35–44, 25–34, <25)
 
-Single-order vs. repeat customers
+* Single-order vs. repeat customers
 
-Gender-based filtering for deeper insights
+* Gender-based filtering for deeper insights
 
 **Returns Analysis**
 
-Return trends by day, month, quarter, and year
+* Return trends by day, month, quarter, and year
 
-Category-wise analysis of:
+* Category-wise analysis of:
 
-Returned Orders
+* Returned Orders
 
-Total Orders
+* Total Orders
 
-Return ratios & impact
+* Return ratios & impact
 
 **Product & Category Performance**
 
-Top 8 product categories by sales
+* Top 8 product categories by sales
 
-Top 5 selling products with revenue contribution
+* Top 5 selling products with revenue contribution
 
-Category-wise monthly returns and sales comparison
+* Category-wise monthly returns and sales comparison
 
 **Payment Method Insights**
 
-Percentage split across:
+* Percentage split across:
 UPI
 Card
 Cash on Delivery
@@ -75,14 +75,14 @@ NetBanking
 
 **Tools & Technologies**
 
-Power BI Desktop
+* Power BI Desktop
 
-Power Query (ETL, cleaning, transformation)
+* Power Query (ETL, cleaning, transformation)
 
-DAX (Metrics & Business Logic)
+* DAX (Metrics & Business Logic)
 
-CSV / Excel Dataset
+* CSV / Excel Dataset
 
-DAX (Metrics & Business Logic)
+* DAX (Metrics & Business Logic)
 
 CSV / Excel Dataset
